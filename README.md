@@ -1,2 +1,11 @@
-<h1><a style="color: black; text-decoration: none;" href="https://satyam-52.github.io/" target="_blank">satyam-52.github.io</a></h1>
-<h3><em>Personal Portfolio</em></h3>
+# My Personal Portfolio
+
+## Technology Used:
+
+1. Gatsby
+2. MDX
+3. React
+4. EmotionJS
+5. TypeScript
+6. Theme UI 
+
